@@ -1,15 +1,11 @@
----
-title: Creating a pull request
-intro: 'Create a pull request to propose and collaborate on changes to a repository. These changes are proposed in a *branch*, which ensures that the default branch only contains finished and approved work.'
-redirect_from:
-  - /articles/creating-a-pull-request
-versions:
-  free-pro-team: '*'
+When I created this pull request it wasn't easy to get done with. Took me awhile but I've found that t to propose and collaborate on changes to a repository. These changes are proposed in a *branch*, which ensures that the default branch only contains finished and approved equest
+versions:When needed
+  free-pro-team: '*'no need
   enterprise-server: '*'
   github-ae: '*'
 ---
 
-Anyone with read permissions to a repository can create a pull request, but you must have write permissions to create a branch. If you want to create a new branch for your pull request and don't have write permissions to the repository, you can fork the repository first. For more information, see "[Creating a pull request from a fork](/articles/creating-a-pull-request-from-a-fork)" and "[About forks](/articles/about-forks)."
+Anyone with read permissions to a repository can crate a pull request, but you must have write permissions to create a branch. If you want to create a new branch for your pull request and don't have write permissions to the repository, you "
 
 You can specify which branch you'd like to merge your changes into when you create your pull request. Pull requests can only be opened between two branches that are different.
 
